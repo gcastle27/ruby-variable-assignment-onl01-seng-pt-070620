@@ -2,7 +2,7 @@
  # give it the value of the string "Hello World"
 proc{greeting}
 
-my string = "hello World"
+"hello World"
 
 
 
