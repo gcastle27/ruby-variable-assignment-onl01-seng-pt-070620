@@ -2,8 +2,7 @@
  # give it the value of the string "Hello World"
 proc{greeting}
 
-"out*put s*tring."
- "hello World"
+my string ="hello World"
 
 
 
