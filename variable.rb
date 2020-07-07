@@ -3,4 +3,6 @@
 local_variables = "greeting"
  
  proc = "hell world"
+  
+string = "hello world"
 
